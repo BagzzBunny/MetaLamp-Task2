@@ -1,0 +1,21 @@
+header {
+    font-family: "Montserrat", "Georgia", "Arial", sans-serif;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+@font-face {
+	font-family: "Montserrat-Black";
+	src: url("../fonts/Montserrat-Black/Montserrat-Black.eot");
+	src: url("../fonts/Montserrat-Black/Montserrat-Black.woff") format("woff"), url("../fonts/Montserrat-Black/Montserrat-Black.ttf") format('truetype'), url("../fonts/Montserrat-Black/Montserrat-Black.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Montserrat";
+	src: url("../fonts/Montserrat/Montserrat-Regular.eot");
+	src: url("../fonts/Montserrat/Montserrat-Regular.woff") format("woff"), url("../fonts/Montserrat/Montserrat-Regular.ttf") format('truetype'), url("../fonts/Montserrat/Montserrat-Regular.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
