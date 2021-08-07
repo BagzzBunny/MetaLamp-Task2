@@ -2,6 +2,9 @@ header {
     font-family: "Montserrat", "Georgia", "Arial", sans-serif;
     font-size: 14px;
     line-height: 17px;
+    padding-left: 10em;
+    padding-right: 10em;
+    vertical-align: middle;
     height: 70px;
     color: rgba(31, 32, 65, 0.5);
     background-color: #FFFFFF;
@@ -36,6 +39,11 @@ body {
     font-size: 14px;
     line-height: 24px;
     color: rgba(31, 32, 65, 0.75);
+    background-image: url("../files/image 3.png");
+}
+
+footer {
+    background-color: #FFFFFF;
 }
 
 @font-face {
