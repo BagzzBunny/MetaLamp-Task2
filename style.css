@@ -1,11 +1,19 @@
+ul.nav {
+    margin: 0;
+    padding: 4px;
+}
+
+ul.nav li {
+    display: inline; /* Отображать как строчный элемент */
+    margin-right: 5px; /* Отступ слева */
+    border: 1px solid #000; /* Рамка вокруг текста */
+    padding: 3px;
+}
+
 header {
     font-family: "Montserrat", "Georgia", "Arial", sans-serif;
     font-size: 14px;
     line-height: 17px;
-    padding-left: 10em;
-    padding-right: 10em;
-    vertical-align: middle;
-    position: absolute;
     size: 100%;
     height: 70px;
     color: rgba(31, 32, 65, 0.5);
